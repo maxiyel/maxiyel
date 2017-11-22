@@ -12,3 +12,4 @@ tests
 5. Wirtuanti ci
 6. Wureku ci
 7. Wempuere
+8. ter
